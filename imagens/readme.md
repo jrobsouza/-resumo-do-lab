@@ -1,1 +1,1 @@
-documentação sobre o Azure e sua estrutura.
+imagens  sobre o Azure e sua estrutura.
