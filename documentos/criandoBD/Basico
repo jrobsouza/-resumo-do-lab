@@ -1,0 +1,36 @@
+Crie um banco de dados SQL com as configurações de sua preferência.
+Conclua a guia Noções básicas e acesse Revisar + criar para fazer o provisionamento com padrões inteligentes, ou visite cada guia para personalização.
+Somente fazendo esta parte do basico, nao consegue finalizar para criar, pois ira informar que a pendencias. O Ideal e ir em cada guia ate concluir.
+Detalhes do projeto
+Selecione a assinatura para gerenciar os custos e os recursos implantados. Use grupos de recursos como pastas para
+organizar e gerenciar todos os seus recursos.
+
+Detalhes do banco de dados
+Insira as configurações necessárias para este banco de dados, incluindo a escolha de um servidor lógico e a
+configuração dos recursos de computação e armazenamento
+
+Deseja usar o pool elástico SQL?
+Ambiente de carga de trabalho
+Configurações padrão fornecidas para Production cargas de trabalho. As
+configurações podem ser modificadas conforme necessário.
+
+Apply offer
+Assinatura Azure subscription 1
+Grupo de recursos Selecione um grupo de recursos
+Criar novo
+Servidor Selecionar um servidor
+Criar novo
+O valor não deve estar vazio.
+Sim Não
+Desenvolvimento
+Produção
+
+Computação + armazenamento
+
+Redundância do armazenamento de backup
+Escolha como os backups de PITR e LTR são replicados. A restauração geográfica ou a capacidade de recuperação de
+uma interrupção regional só está disponível quando o armazenamento com redundância geográfica está selecionado.
+Redundância do armazenamento de
+backup
+Primeiro selecione um servidor.
+Configurar banco de dados
