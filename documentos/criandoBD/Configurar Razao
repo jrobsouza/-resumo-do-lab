@@ -1,0 +1,22 @@
+Configurar razão
+
+Banco de dados do Razão
+A habilitação da funcionalidade de razão no nível do banco de dados tornará todas as tabelas deste banco de
+dados tabelas de razão atualizáveis. Essa opção não pode ser alterada após a criação do banco de dados. Se você
+não selecionar essa opção agora, ainda poderá criar tabelas contábeis (atualizáveis ou somente anexadas) usando
+T-SQL. Depois de habilitar a funcionalidade de razão para uma tabela, você não poderá desabilitá-la.
+
+Armazenamento de resumo
+Se você deseja que o razão gere resumos automaticamente e os armazene para sua verificação posterior, você
+precisa configurar uma conta de Armazenamento do Microsoft Azure ou o Razão Confidencial do Azure. Como
+alternativa, você pode gerar resumos manualmente e armazená-los em seu próprio local seguro
+
+
+Habilitar armazenamento de resumo automático
+Tipo de armazenamento
+-Contêiner de armazenamento
+Para evitar a violação de seus arquivos de resumo, configure e bloqueie
+uma política de retenção para seu contêiner.
+-Armazenamento do Microsoft Azure
+-Razão Confidencial do Azure
+-Conta de armazenamento
