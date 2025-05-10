@@ -17,6 +17,7 @@ Tipo de armazenamento
 -Contêiner de armazenamento
 Para evitar a violação de seus arquivos de resumo, configure e bloqueie
 uma política de retenção para seu contêiner.
--Armazenamento do Microsoft Azure
+-Armazenamento do Microsoft Azure 
+  - criar uma conta de armazenamento
 -Razão Confidencial do Azure
 -Conta de armazenamento
