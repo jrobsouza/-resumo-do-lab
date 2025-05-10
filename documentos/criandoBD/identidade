@@ -1,0 +1,25 @@
+Identidade
+Neste item , tive dificuldade, pois nao entendi sobre a identidade. tentei deixar o padrao e nao me aventurar
+
+Identidade gerenciada atribuída pelo sistema
+Uma entidade gerenciada atribuída pelo sistema habilita os recursos do Azure para autenticar os serviços de nuvem (por
+exemplo, o Azure Key Vault) sem armazenar credenciais no código. Uma vez habilitada, todas as permissões necessárias
+podem ser concedidas por meio do controle de acesso baseado em função do Azure. O ciclo de vida desse tipo de
+identidade gerenciada está ligado ao ciclo de vida deste recurso. Além disso, cada recurso (por exemplo, a máquina virtual)
+só pode ter uma identidade gerenciada atribuída pelo sistema. 
+
+Identidade gerenciada atribuída pelo usuário
+As identidades gerenciadas atribuídas pelo usuário permitem que os recursos do Azure se autentiquem nos serviços de
+nuvem (por exemplo, o Azure Key Vault) sem armazenar credenciais no código. Esse tipo de identidade gerenciada é criado
+como recursos do Azure autônomos e tem seu próprio ciclo de vida. Um único recurso (por exemplo, a Máquina Virtual)
+pode utilizar várias identidades gerenciadas atribuídas do usuário. Da mesma forma, uma única identidade gerenciada
+atribuída pelo usuário pode ser compartilhada entre vários recursos (por exemplo, a Máquina Virtual).
+
+Identidade primária
+Quando uma ou mais identidades gerenciadas atribuídas ao usuário são atribuídas ao servidor, designe uma delas como a
+identidade primária ou padrão do servidor.
+
+Identidade federada do cliente
+Para acesso a recursos entre locatários, como usar uma chave gerenciada pelo cliente de um cofre de chaves em outro
+locatário do Microsoft Entra, você pode selecionar uma identidade de cliente federado para usar com a identidade
+gerenciada selecionada.
