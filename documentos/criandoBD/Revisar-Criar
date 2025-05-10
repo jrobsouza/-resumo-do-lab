@@ -1,0 +1,46 @@
+Aqui mostra os detalhes da confuiguração e os dados basicos da criação do BD
+
+
+Básico
+Assinatura Azure subscription 1
+Grupo de recursos Nenhum
+Região Brazil South
+Nome do banco de dados BDInstancia_um
+Servidor (novo) maonamassa
+Método de autenticação Autenticação do SQL
+Logon do administrador do servidor admin_bd
+Computação + armazenamento Básico: 2 GB de armazenamento
+Redundância do armazenamento de
+backup
+Armazenamento de backup com redundância geográfica
+Rede
+Permitir que serviços e recursos do Azure
+acessem este servidor
+Não
+Ponto de extremidade privado Nenhum
+Versão mínima do TLS 1.2
+Política de Conexão Default
+Básico Rede Segurança Configurações adicionais Rótulos Revisar + criar
+
+- Segurança
+Identidade Não habilitado
+Transparent Data Encryption (nível de
+servidor)
+Chave gerenciada por serviço selecionada
+Chave gerenciada pelo cliente no nível do banco de dados - Não configurado
+Identidade gerenciada atribuída pelo usuário no nível do banco de dados - Não configurado
+Segurança de dados avançada  -Agora não
+Always Encrypted com enclaves seguros - Não configurado
+Sql Razão (Banco de dados) - Desabilitado
+Digerir armazenamento  -Desabilitado
+
+- Configurações adicionais
+Usar dados existentes -Blank
+Ordenação - SQL_Latin1_General_CP1_CI_AS
+Janela de manutenção  - Padrão do sistema (17h às 8h)
+
+Rótulos
+test (Banco de dados)
+producao (Banco de dados)
+test (Servidor)
+producao (Servidor)
