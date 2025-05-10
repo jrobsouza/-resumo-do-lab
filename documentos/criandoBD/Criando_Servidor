@@ -1,0 +1,21 @@
+Criar Servidor do Banco de Dados SQL 
+Detalhes do servidor
+Insira as configurações necessárias para este servidor, incluindo o fornecimento de um nome e localização. Esse servidor
+será criado na mesma assinatura e grupo de recursos que seu banco de dados.
+
+
+Selecione seus métodos de autenticação preferidos para acessar este servidor.
+Crie um login e senha de administrador
+servidor para acessar seu servidor com autenticação SQL, 
+selecione apenas autenticação do Microsoft usando um usuário, grupo ou aplicativo existente do Microsoft
+como administrador do Microsoft  
+
+ou selecione autenticação SQL e Microsoft Entra.
+Método de autenticação
+Definir administrador do Microsoft Entra Não Selecionado
+Definir administrador
+
+Localização (US) East US
+Usar a autenticação somente do Microsoft Entra
+Usar autenticação SQL e Microsoft Entra
+Usar autenticação SQL
