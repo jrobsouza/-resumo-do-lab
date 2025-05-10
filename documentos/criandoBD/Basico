@@ -20,7 +20,6 @@ Grupo de recursos Selecione um grupo de recursos
 Criar novo
 Servidor Selecionar um servidor
 Criar novo
-O valor não deve estar vazio.
 Sim Não
 Desenvolvimento
 Produção
@@ -30,7 +29,5 @@ Computação + armazenamento
 Redundância do armazenamento de backup
 Escolha como os backups de PITR e LTR são replicados. A restauração geográfica ou a capacidade de recuperação de
 uma interrupção regional só está disponível quando o armazenamento com redundância geográfica está selecionado.
-Redundância do armazenamento de
-backup
-Primeiro selecione um servidor.
-Configurar banco de dados
+Redundância do armazenamento de backup
+
